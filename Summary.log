@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2017.10.4)  31 OCT 2017 12:33
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2017.10.4)  5 NOV 2017 14:02
 entering extended mode
 **Summary
-(C:\Users\theFux\Desktop\ImageProcess\Summary.tex
+(C:\Users\theFux\Desktop\ImageProcess\Image_Proc\Summary.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -305,7 +305,7 @@ Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-(C:\Users\theFux\Desktop\ImageProcess\Summary.aux
+(C:\Users\theFux\Desktop\ImageProcess\Image_Proc\Summary.aux
 
 LaTeX Warning: Label `' multiply defined.
 
@@ -360,7 +360,7 @@ File: image/viewTransform.png Graphic file (type png)
 <use image/viewTransform.png>
 Package pdftex.def Info: image/viewTransform.png used on input line 75.
 (pdftex.def)             Requested size: 390.0pt x 137.06044pt.
- [3 <C:/Users/theFux/Desktop/ImageProcess/image/viewTransform.png>]
+ [3 <C:/Users/theFux/Desktop/ImageProcess/Image_Proc/image/viewTransform.png>]
 <image/projectionTrasform.png, id=20, 698.61pt x 164.11313pt>
 File: image/projectionTrasform.png Graphic file (type png)
 
@@ -374,29 +374,31 @@ File: image/viewportTransform.png Graphic file (type png)
 <use image/viewportTransform.png>
 Package pdftex.def Info: image/viewportTransform.png used on input line 111.
 (pdftex.def)             Requested size: 390.0pt x 118.46933pt.
- [4 <C:/Users/theFux/Desktop/ImageProcess/image/projectionTrasform.png> <C:/Use
-rs/theFux/Desktop/ImageProcess/image/viewportTransform.png>]
+ [4 <C:/Users/theFux/Desktop/ImageProcess/Image_Proc/image/projectionTrasform.p
+ng> <C:/Users/theFux/Desktop/ImageProcess/Image_Proc/image/viewportTransform.pn
+g>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 122.
 
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 122.
-
-[5] (C:\Users\theFux\Desktop\ImageProcess\Summary.aux)
+ [5] [6]
+(C:\Users\theFux\Desktop\ImageProcess\Image_Proc\Summary.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1727 strings out of 494045
- 22175 string characters out of 3145966
+ 1728 strings out of 494045
+ 22267 string characters out of 3145966
  77175 words of memory out of 3000000
- 5024 multiletter control sequences out of 15000+200000
- 8501 words of font info for 30 fonts, out of 3000000 for 9000
+ 5025 multiletter control sequences out of 15000+200000
+ 8808 words of font info for 31 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 27i,8n,24p,224b,222s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,8n,24p,305b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/P
@@ -407,9 +409,9 @@ les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files
 (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86
 )/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Summary.pdf (5 pages, 254631 bytes).
+Output written on Summary.pdf (6 pages, 259315 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
+ 64 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
